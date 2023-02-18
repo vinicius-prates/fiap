@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de Software.md",
+                "file": "Fase 1/Tipos de Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfef0a2b0396e88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fase 1/Falhas acontecem, como evita-las.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tipos de Software.md",
+                "file": "Fase 1/Falhas acontecem, como evita-las.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tipos de Software.md",
+                "file": "Fase 1/Falhas acontecem, como evita-las.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tipos de Software.md"
+                "file": "Fase 1/Falhas acontecem, como evita-las.md"
               }
             }
           }
@@ -146,6 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff08d88028abc94",
-  "lastOpenFiles": []
+  "active": "cfef0a2b0396e88f",
+  "lastOpenFiles": [
+    "Fase 1/Tipos de Software.md",
+    "Fase 1/Falhas acontecem, como evita-las.md"
+  ]
 }
