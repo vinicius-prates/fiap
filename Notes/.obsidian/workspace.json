@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "cfef0a2b0396e88f",
+            "id": "c4595f22ed4c818a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fase 1/Entendendo todas as linguaguens web.md",
+                "file": "Fase 1/Cap 4 - Projetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fase 1/Entendendo todas as linguaguens web.md",
+                "file": "Fase 1/Cap 4 - Projetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fase 1/Entendendo todas as linguaguens web.md",
+                "file": "Fase 1/Cap 4 - Projetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fase 1/Entendendo todas as linguaguens web.md"
+                "file": "Fase 1/Cap 4 - Projetos.md"
               }
             }
           }
@@ -159,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfef0a2b0396e88f",
+  "active": "c4595f22ed4c818a",
   "lastOpenFiles": [
     "Fase 1/Tipos de Software.md",
+    "Fase 1/Cap 4 - Projetos.md",
     "Fase 1/Entendendo todas as linguaguens web.md"
   ]
 }
