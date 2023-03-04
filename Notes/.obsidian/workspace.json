@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "8f340104345a34f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fase 1/Infraestutura Sustentável.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c4595f22ed4c818a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fase 1/Cap 4 - Projetos.md",
+                "file": "Fase 1/Entendendo todas as linguaguens web.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fase 1/Cap 4 - Projetos.md",
+                "file": "Fase 1/Infraestutura Sustentável.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fase 1/Cap 4 - Projetos.md",
+                "file": "Fase 1/Infraestutura Sustentável.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fase 1/Cap 4 - Projetos.md"
+                "file": "Fase 1/Infraestutura Sustentável.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4595f22ed4c818a",
+  "active": "8f340104345a34f4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Fase 1/Infraestutura Sustentável.md",
     "Fase 1/Tipos de Software.md",
-    "Fase 1/Cap 4 - Projetos.md",
-    "Fase 1/Entendendo todas as linguaguens web.md"
+    "Fase 1/Entendendo todas as linguaguens web.md",
+    "Fase 1/Cap 4 - Projetos.md"
   ]
 }

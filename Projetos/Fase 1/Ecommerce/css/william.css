@@ -1,0 +1,130 @@
+.store__container {
+  padding: 30px 0;
+}
+
+.store__container--mainContent {
+  margin: 15px 0;
+}
+
+.store__container--header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.store__container--header:first-child {
+  width: 100%;
+}
+
+.store__container--header h2 {
+  text-transform: uppercase;
+  color: var(--red-dark);
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+.store__container--firstLine {
+  background: var(--red-dark);
+  height: 2px;
+  min-width: max-content;
+}
+
+.store__container--lastLine {
+  background: var(--gray);
+  width: 100%;
+  padding-top: 10px;
+}
+
+.store__container--items {
+  display: flex;
+  column-gap: 30px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.container__items {
+  width: 300px;
+  height: min-content;
+}
+
+.container__items--header {
+  padding: 0 5px;
+}
+
+#container__items--red div {
+  border: 1px solid var(--red-light);
+}
+
+.container__items div {
+  border: 1px solid var(--green-light);
+}
+
+.container__items div header {
+  background: var(--green-light);
+  color: var(--green-dark);
+  text-align: center;
+}
+
+#container__items--red div header {
+  background: var(--red-light);
+  color: var(--red-dark);
+  text-align: center;
+}
+
+.store__container--figure {
+  max-width: 100%;
+}
+
+.store__container--figure img {
+  width: 100%;
+  min-height: 70px;
+}
+
+.store__container--figure figcaption {
+  padding: 20px;
+  min-height: 70px;
+}
+
+.container__items footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--green-dark);
+  padding: 10px 5px;
+}
+
+#container__items--red footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--red-dark);
+  padding: 10px 5px;
+}
+
+.store__container--footerContent span {
+  display: block;
+}
+
+.store__container--footerContent span:first-child {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  font-family: Tahoma, sans-serif;
+}
+
+.store__container--footerContent span:nth-child(2) {
+  font-size: 14px;
+  color: white;
+  font-family: Tahoma, sans-serif;
+}
+
+.container__items footer img {
+  background: white;
+  border-radius: 8px;
+  padding: 5px;
+  width: 60px;
+}
+

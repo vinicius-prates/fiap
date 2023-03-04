@@ -1,0 +1,88 @@
+:root {
+    --red-dark: #660000;
+    --green: #1b8e99;
+    --gray: #444444;
+}
+
+.services__header {
+    
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+.services__container {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin: 0 0 60px 0;
+}
+
+.services__courses, .services__maintenance, .services__aerialFilming {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+.services__aerialFilming, .services__courses{
+    
+    width: 300px;
+    border: 2px solid var(--red-dark);
+    border-bottom: 6px solid var(--red-dark);
+}
+
+.services__maintenance{
+    width: 300px ;
+    border: 2px solid var(--green);
+    border-bottom: 6px solid var(--green);
+
+}
+
+.articles__container {
+    justify-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.services__title{
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    color: var(--green);
+    font-size: 18px;
+    border-bottom: 2.5px solid var(--green) ;
+    width: 875px;
+}
+
+.courses__title, .aerialFilming__title{
+    margin:0 5px 5px 5px;
+    color: var(--red-dark);
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: Tahoma;
+
+}
+
+.maintenance__title{
+    margin:0 5px 5px 5px;
+    color: var(--green);
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: Tahoma;
+}
+.courses__paragraph, .aerial__paragraph{ 
+    margin: 6px ;
+    font-family: Tahoma;
+    font-size: 13px;
+    color: var(--red-dark);
+}
+
+.maintenance__paragraph{
+    margin: 6px ;
+    font-family: Tahoma;
+    font-size: 13px;
+    color: var(--green);
+}

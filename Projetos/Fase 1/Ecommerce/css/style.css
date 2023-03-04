@@ -1,0 +1,19 @@
+:root {
+    --red-light: #EADCDC;
+    --red-dark:#660000;
+    --green-dark: #1b8e99;
+    --green-light: #92C9CE;
+    --gray: #444444;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+   
+}body{
+    margin: 0 auto;
+    width: 980px;
+}
+main {
+    padding: 0 ;
+}
